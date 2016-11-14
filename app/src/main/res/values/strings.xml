@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="Nombre">Sebastián</string>
+    <string name="Telefono">06669603810</string>
+    <string name="Correo">sgalvis1@hotmail.com</string>
+    <string name="Fecha">20/20/1999</string>
+    <string name="UName">Nombre completo</string>
+    <string name="UTelefono">Telefono</string>
+    <string name="UCorreo">Dirección e-mail</string>
+    <string name="UDesrcipcion">Descripción del contacto</string>
+    <string name="Bsiguiente">Siguiente</string>
+    <string name="Bfecha">Fecha</string>
+    <string name="Titulo">Confirmar contacto</string>
+    <string name="TituloP1">Lista de mascotas</string>
+    <string name="TituloP2">Mascotas favoritas</string>
+    <string name="Bmodificar">Editar contacto</string>
+    <string name="BTguardar">Guardar contacto</string>
+
+    <string name="OnStart">Inicio</string>
+    <string name="OnResume">Resumen</string>
+    <string name="OnRestart">Reinicio</string>
+    <string name="OnStop">Stop</string>
+    <string name="OnPause">Pausa</string>
+    <string name="OnCreated">Creado</string>
+    <string name="OnDestroyed">Hasta luego</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="SzNombre">20dp</dimen>
+    <dimen name="SzTelfono">20dp</dimen>
+    <dimen name="SzEmail">20dp</dimen>
+    <dimen name="Icons">20dp</dimen>
+    <dimen name="TopMargin">5dp</dimen>
+    <dimen name="MLeft">5dp</dimen>
+    <dimen name="Sztitulo">30dp</dimen>
+    <dimen name="Mtitulo">30dp</dimen>
+    <dimen name="Rcardview">5dp</dimen>
+    <dimen name="Pcardview">7dp</dimen>
+    <dimen name="Szimagecv">130dp</dimen>
+    <dimen name="EactionBar">4dp</dimen>
+</resources>
